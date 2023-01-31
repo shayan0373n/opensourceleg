@@ -5,9 +5,6 @@ import sys
 import numpy as np
 import scipy
 import serial
-from flexsea import flexsea as flex
-from flexsea import fxEnums as fxe
-from flexsea import fxUtils as fxu
 
 from smbus2 import SMBus
 
